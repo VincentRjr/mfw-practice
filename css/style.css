@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    background-color: rgb(167, 164, 173)
+}
+
+.container {
+    margin-top: 235px;
+}
+
+.col-md-3 {
+    height: 198px;
+    text-align: center;
+    border: 6px solid rgb(112,0,166);
+    padding-top: 35px;
+}
+
+.col-md-9 {
+    text-align: center;
+    border: 6px solid rgb(112,0,166);
+}
